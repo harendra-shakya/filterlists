@@ -79,3 +79,4 @@ m.youtube.com##ytm-reel-shelf-renderer.item:has(.reel-shelf-title-wrapper:has-te
 
 ! Hide shorts tab on channel pages
 m.youtube.com##.single-column-browse-results-tabs>a:has-text(Shorts)
+m.youtube.com##a.center.single-column-browse-results-tab:nth-of-type(3)
