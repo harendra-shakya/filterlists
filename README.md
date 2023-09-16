@@ -12,7 +12,7 @@ To use these filters, you'll need an ad blocker extension that supports custom f
 
 3. Look for an option to add custom filter lists.
 
-4. Copy and paste the entire contents of this README.md file into the custom filter list section.
+4. Add this **https://raw.githubusercontent.com/harendra-shakya/u-block-yt-filter-list/main/hs-yt-filterlist.md** to custom filter list.
 
 5. Save the changes.
 
