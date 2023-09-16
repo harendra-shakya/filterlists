@@ -29,28 +29,28 @@ www.youtube.com###related ytd-compact-video-renderer [overlay-style="SHORTS"]:up
 
 
 ! ----------------- Mobile https://www.m.youtube.com -----------------------
-! YT Mobile - Hide the Shorts Menu button
+! Hide the Shorts Menu button
 m.youtube.com##.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
 
-! YT Mobile - Hide Shorts sections
+! Hide Shorts sections
 m.youtube.com##ytm-reel-shelf-renderer
 
-! YT Mobile - Hide Shorts in search results
+! Hide Shorts in search results
 m.youtube.com##ytm-search ytm-video-with-context-renderer [data-style="SHORTS"]
 
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 
-! YT Mobile - Tob Featured Bar
+! Tob Featured Bar
 m.youtube.com##.chip-bar-contents
 
-! YT Mobile - Suggested
+! Suggested Videos
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
 m.youtube.com##.with-z-index.full-bleed-wn-thumbs.watch-content > .single-column-watch-next-modern-panels.scwnr-content
 
-! Mobile YT - Hide videos based on channel URLs
+! Hide videos based on channel URLs
 m.youtube.com##ytm-media-item .media-channel a:not([class]):is([href="/@ChannelURL"], [href="/@AnotherChannelURL"]):upward(ytm-media-item)
 
-! YT Mobile - Hide Home Tab
+! Hide Home Tab
 m.youtube.com##.pivot-w2w.pivot-bar-item-tab
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
 
