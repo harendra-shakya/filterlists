@@ -1,4 +1,5 @@
-! 2023-09-05 https://www.youtube.com
+! ----------------- Desktop https://www.youtube.com -----------------------
+
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##yt-related-chip-cloud-renderer.ytd-watch-next-secondary-results-renderer.style-scope
@@ -6,7 +7,6 @@ www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-rend
 youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 ! YT Menu - Hide the Home button
 www.youtube.com###guide [title="Home"], .ytd-mini-guide-entry-renderer[title="Home"]
-
 
 ! YT Homepage - Hide the Shorts section
 youtube.com##[is-shorts]
@@ -28,7 +28,7 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer
 www.youtube.com###related ytd-compact-video-renderer [overlay-style="SHORTS"]:upward(ytd-compact-video-renderer)
 
 
-! 2023-09-15 https://m.youtube.com
+! ----------------- Mobile https://www.m.youtube.com -----------------------
 ! YT Mobile - Hide the Shorts Menu button
 m.youtube.com##.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
 
@@ -53,7 +53,6 @@ m.youtube.com##ytm-media-item .media-channel a:not([class]):is([href="/@ChannelU
 ! YT Mobile - Hide Home Tab
 m.youtube.com##.pivot-w2w.pivot-bar-item-tab
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
-
 
 ! Hide all videos in home feed containing the phrase "#shorts"
 m.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(#shorts))
