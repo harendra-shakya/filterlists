@@ -34,9 +34,14 @@ m.youtube.com##.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
 
 ! Hide Shorts sections
 m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##.rich-section-content
 
 ! Hide Shorts in search results
 m.youtube.com##ytm-search ytm-video-with-context-renderer [data-style="SHORTS"]
+
+m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item:nth-of-type(1)
+m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item:nth-of-type(2)
+m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item:nth-of-type(3)
 
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 
