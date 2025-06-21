@@ -1,3 +1,10 @@
+! Title: 📺 YouTube Shorts Block
+! Description: Remove YouTube Shorts
+! Updated: 21 June 2025
+! License: https://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/harendra-shakya/filterlists
+! Expires: 7 days (update frequency)
+
 ! ----------------- Desktop https://www.youtube.com -----------------------
 
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
@@ -27,8 +34,8 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer
 ! YT Sidebar - Hide Shorts
 www.youtube.com###related ytd-compact-video-renderer [overlay-style="SHORTS"]:upward(ytd-compact-video-renderer)
 
-
 ! ----------------- Mobile https://www.m.youtube.com -----------------------
+
 ! Hide the Shorts Menu button
 m.youtube.com##.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
 
