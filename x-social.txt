@@ -1,0 +1,87 @@
+! --------------------- X.com / Twitter -------------------------------------------------
+
+! Jul 19, 2025 https://x.com
+
+! Notications
+x.com##.r-1m4drjs.r-u8s1d.r-2utimh.r-1tjplnt.r-rs99b7.r-1phboty.r-1xc7w19.r-3s2u2q.r-lrvibr.r-285fr0.r-1777fci.r-10ptun7.r-1q142lx.r-6koalj.r-sdzlij.r-l5o3uw.r-1awozwy.r-16dba41.r-56xrmm.r-1gkfh8e.r-37j5jr.r-qvutc0.r-1ttztb7.css-146c3p1
+x.com##.r-6czh2s.r-1b8bd59.r-eafdt9.r-1i36cah.r-1kw4oii.r-6dt33c.r-12kyg2d.css-175oi2r
+x.com##.r-1ld3bg.r-615f2u.r-u8s1d.r-12rgx7y.r-lrvibr.r-1ozsyd3.r-1yadl64.r-sdzlij.r-l5o3uw.css-175oi2r
+
+! Jul 19, 2025 https://x.com
+x.com###id__p41y4a29vc > div.r-13awgt0.r-1h0z5md.r-18u37iz.css-175oi2r > .r-1ny4l3l.r-1loqt21.r-lrvibr.r-bztko3.r-bt1l66.r-1777fci.css-175oi2r > .r-3s2u2q.r-clp7b1.r-o7ynqc.r-1h0z5md.r-6koalj.r-1awozwy.r-16dba41.r-rjixqe.r-a023e6.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1 > .r-1udh08x.r-xoduu5.css-175oi2r > span > .r-n7gxbd.r-1k6nrdp.r-1cwl3u0.r-n6v787.r-poiln3.r-qvutc0.r-1ttztb7.css-1jxf684 > .r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684
+
+! Hide reply count for tweets
+x.com##div[aria-label*=Reply] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+twitter.com##div[aria-label*=Reply] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+
+! Hide retweet count for tweets (now called "Repost")
+x.com##div[aria-label*=Retweet] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+twitter.com##div[aria-label*=Retweet] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+
+! Hide like count for tweets
+x.com##div[aria-label*=Like] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+twitter.com##div[aria-label*=Like] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+
+! Hide view count for tweets
+x.com##div[aria-label*=View] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+twitter.com##div[aria-label*=View] > div > div.css-1dbjc4n.r-xoduu5.r-1udh08x
+
+! Optionally, remove counts on tweet pages (single tweet view)
+x.com##div.css-1dbjc4n.r-1dgieki.r-1efd50x.r-5kkj8d.r-13awgt0.r-18u37iz.r-tzz3ar.r-s1qlax.r-1yzf0co
+twitter.com##div.css-1dbjc4n.r-1dgieki.r-1efd50x.r-5kkj8d.r-13awgt0.r-18u37iz.r-tzz3ar.r-s1qlax.r-1yzf0co
+
+! Tweets lower part (Remove it if can't see videos and images)
+x.com##.r-kzbkwu.r-1777fci.r-16y2uox.r-1iusvr4.css-175oi2r > div.css-175oi2r > .css-175oi2r
+
+! Time and views
+x.com##.r-12kyg2d.css-175oi2r > .r-1wtj0ep.r-18u37iz.r-k4xj1c.css-175oi2r
+
+! Like numbers 
+x.com##div.r-13awgt0.r-1h0z5md.r-18u37iz.css-175oi2r > .r-1ny4l3l.r-1loqt21.r-lrvibr.r-bztko3.r-bt1l66.r-1777fci.css-175oi2r > .r-3s2u2q.r-clp7b1.r-o7ynqc.r-1h0z5md.r-6koalj.r-1awozwy.r-16dba41.r-rjixqe.r-a023e6.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1 > .r-1udh08x.r-xoduu5.css-175oi2r
+
+! Other tweets annoyses.
+x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(2)
+x.com##div.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.r-1loqt21.css-175oi2r:nth-of-type(5)
+x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(1)
+x.com##div.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.r-1loqt21.css-175oi2r:nth-of-type(1)
+x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(4)
+x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(3)
+x.com##.r-1hycxz.r-10f7w94.r-aqfbo4.css-175oi2r
+x.com##div.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.r-1loqt21.css-175oi2r:nth-of-type(2)
+
+! Followed by
+x.com##.r-1ifxtd0.r-ttdzmv.r-3pj75a.css-175oi2r > .r-1s2bzr4.css-175oi2r
+
+! Search suggestions
+x.com##.r-13awgt0.r-1oszu61.r-417010.r-13wfysu.r-bnwqim.r-t60dpp.r-bcqeeo.r-ifefl9.r-crgep1.r-1ebb2ja.r-eqz5dr.r-1mlwlqe.r-6koalj.r-deolkf.r-vqxq0j.r-1niwhzg > .r-bnwqim.r-13awgt0.css-175oi2r
+
+
+! Other annoyses
+x.com##span.r-1a11zyx.r-4qtqp9.r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684:nth-of-type(2)
+x.com##span.r-1a11zyx.r-4qtqp9.r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684:nth-of-type(3)
+x.com##.r-1w6e6rj.r-18u37iz.r-13awgt0.css-175oi2r
+x.com##div.r-16y2uox.r-cpa5s6.r-14tvyh0.css-175oi2r:nth-of-type(3)
+x.com##div.r-16y2uox.r-cpa5s6.r-14tvyh0.css-175oi2r:nth-of-type(2)
+
+! Search settings
+x.com##.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r
+
+! Grok
+x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
+! Explore Tabs
+x.com##.r-qklmqi.r-rull8r.r-1igl3o0.r-18u37iz.r-1awozwy.css-175oi2r
+
+! Buttons
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(6)
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
+x.com##.r-e7q0ms.r-l00any.css-175oi2r
+x.com##.r-184id4b.css-175oi2r
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(10)
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(11)
+x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(12)
+
+! Explore section
+x.com##.r-1ye8kvj.r-13qz1uu.r-f8sm7e.r-1lg4w6u.r-1abdc3e.r-184en5c.r-16y2uox.r-1phboty.r-th6na.r-1ua6aaf.r-1kqtdi0.r-kemksi.css-175oi2r > .css-175oi2r > .r-1ye8kvj.r-13qz1uu.r-f8sm7e.css-175oi2r
+
